@@ -1,6 +1,6 @@
 <?php
 /**
- * FaceIQ.NET - Contact Page (anti-spam hardened)
+ * YourSite - Contact Page (anti-spam hardened)
  * - Single file: renders form + handles POST
  * - Protections: CSRF, honeypot, timing gate, IP rate limit, URL/keyword checks, header-injection prevention
  *
